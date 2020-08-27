@@ -16,7 +16,7 @@
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanjr&repo=covid19-tracker)](https://https://github.com/adityanjr/covid19-tracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanjr&repo=covid19-tracker)](https://github.com/adityanjr/covid19-tracker)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityanjr&show_icons=true" alt="adityanjr" /></p>
 
