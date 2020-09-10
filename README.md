@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityanjr" alt="adityanjr" /> </p>
 
-- 🔭 I’m currently working on [Covid-19 Tracker](https://www.youtube.com/watch?v=I49bgB9XEFE)
+- 🔭 Most Recent Project [Covid-19 Tracker](https://www.youtube.com/watch?v=I49bgB9XEFE)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Flutter**
 
