@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Aditya Singh</h2>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aditya Singh</h2>
 <h4 align="center">A passionate developer and a Geek.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityanjr" alt="adityanjr" /> </p>
