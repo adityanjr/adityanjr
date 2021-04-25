@@ -74,7 +74,7 @@ const user = {
 
 <!-- Skills -->
 <hr>
-<h1 align="center"> Skills & Tools </h1>
+<p align="center"> Skills & Tools </p>
 
 <p align="center">
   <a href="https://www.javascript.com/">
@@ -119,7 +119,7 @@ const user = {
 
 <!-- Contribution -->
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=adityanjr&theme=react-dark">
+    <img width="800" src="https://activity-graph.herokuapp.com/graph?username=adityanjr&theme=react-dark">
 </p>
 <details>
   <summary><b>:computer: &nbsp;Main Tech Knowledge</b></summary>
