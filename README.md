@@ -1,5 +1,9 @@
 <img src="https://komarev.com/ghpvc/?username=adityanjr" alt="adityanjr"/>
 
+```
+npx adityanjr #npm-card
+```
+
 ```js
 const user = {
   name: "Aditya Singh",
