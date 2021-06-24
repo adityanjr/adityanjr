@@ -7,22 +7,19 @@ npx adityanjr #npm-card
 ```js
 const user = {
   name: "Aditya Singh",
-  pronouns: [ "he", "him" ],
-  theme: [ "dark", "monokai" ],
+  theme: [ "one dark", "github dark" ],
   
-  semicolons: false,
   line_endings: "crlf",
   codeStyle: "Prettier",
   variables: "camelCase",
   trailing_comma: true,
     
   hobbies: [ "programming", "chess", "gaming", "anime", "gaining knowledge", ],
-  projects: [ "Flutter", "Blockchain", "ML", "React", ],  
   languages: [ "C++", "Python", "JavaScript", "Solidity", "Dart" ],
-  editors: [ "Android Studio", "VS Code", ],
+  editors: [ "Android Studio", "VS Code", "Sublime" ],
   
   newLanguage: function () {
-    console.log("Hello, World!")
+    console.log("Namaste, World!")
   },
   
   hereIsYourGame: function (game) {
@@ -69,8 +66,6 @@ const user = {
 <!-- Contact  -->
   <p align="center">
   <a href="mailto:samant04aditya@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100006738696907"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/aditya_njr/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adityanjr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/aditya_njrr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
